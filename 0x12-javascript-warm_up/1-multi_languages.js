@@ -1,10 +1,7 @@
 #!/usr/bin/node
-
 const xzy = 'C is fun';
-console.log(xzy);
-
 const dab = 'Python is cool';
+const law = 'JavaScript is amazing';
+console.log(xzy);
 console.log(dab);
-
-const law = 'Javascript is amazing';
 console.log(law);
