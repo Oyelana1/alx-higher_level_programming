@@ -1,5 +1,4 @@
 #!/usr/bin/node
-
 const xzy = 'C is fun';
 console.log(xzy);
 
