@@ -8,3 +8,4 @@ console.log(dab);
 
 const law = 'Javascript is amazing';
 console.log(law);
+
