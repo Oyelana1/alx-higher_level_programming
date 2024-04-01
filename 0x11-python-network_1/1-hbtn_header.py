@@ -4,7 +4,7 @@ import sys
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
-        print("Usage: ./1-hbtn_header.py <URL>")
+        print("Usage: ./1-hbtn_header.py <https://alx-intranet.hbtn.io>")
         sys.exit(1)
         
     url = sys.argv[1]
